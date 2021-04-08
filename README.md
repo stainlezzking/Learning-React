@@ -29,4 +29,4 @@ The net ninja (my tutor) put all this in action by building a simple Todo app th
 >Mark task as completed or uncompleted by giving it a different colour and by rearranging the list to make finished task be at the bottom of the list, the code i wrote to make this happen is simple and clean. I am proud
 
 
- ![overview of the app](https://github.com/stainlezzking/Learning-React/blob/master/src/components/todo.jpg =200x)
+ ![overview of the app](https://github.com/stainlezzking/Learning-React/blob/master/src/components/todo.JPG =200x)
